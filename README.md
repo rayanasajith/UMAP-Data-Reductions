@@ -35,12 +35,12 @@ Parameters Used
 
 The reproduction uses the default parameters recommended in the paper:
 
-n_neighbors = 15
-min_dist = 0.1
-n_components = 2
-random_state = 42 (added for reproducibility)
-k (kNN classifier) = 10, 20, 40, 80, 160
-Cross-validation = 10-fold Stratified
+n_neighbors = 15.
+min_dist = 0.1.
+n_components = 2.
+random_state = 42 (added for reproducibility).
+k (kNN classifier) = 10, 20, 40, 80, 160.
+Cross-validation = 10-fold Stratified.
 
 Expected Output
 
