@@ -34,6 +34,7 @@ To reproduce the results, run the two scripts separately:
 Parameters Used
 
 The reproduction uses the default parameters recommended in the paper:
+
 n_neighbors = 15
 min_dist = 0.1
 n_components = 2
